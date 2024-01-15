@@ -1,3 +1,5 @@
+Split the video at specific intervals.
+
 Usage
 
 ```
